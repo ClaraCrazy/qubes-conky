@@ -1,0 +1,34 @@
+conky_perf.conf: /tmp/tmp.Io1OI8MuZn
+conky: desktop window (71f) is root window
+conky: window type - dock
+conky: drawing to created window (0x6e00002)
+conky: drawing to double buffer
+conky: can't open '/sys/class/thermal/thermal_zone0/temp': No such file or directory
+conky: forked to background, pid is 117418
+conky_qubes.conf: /tmp/tmp.9jIVqtsNQq
+
+conky: desktop window (71f) is root window
+conky: window type - dock
+conky: drawing to created window (0x7000002)
+conky: drawing to double buffer
+conky: forked to background, pid is 117421
+conky_qubesSettings.conf: /tmp/tmp.zojT7OoChF
+
+conky: desktop window (71f) is root window
+conky: window type - dock
+conky: drawing to created window (0x7200002)
+conky: drawing to double buffer
+conky: forked to background, pid is 117447
+
+conky: can't open /sys/class/power_supply/BAT0/uevent: No such file or directory
+conky: can't open /proc/acpi/battery/BAT0/state: No such file or directory
+conky: can't open /proc/apm: No such file or directory
+conky: can't open /sys/class/power_supply/BAT0/uevent: No such file or directory
+conky: can't open /proc/acpi/battery/BAT0/state: No such file or directory
+conky: can't open /proc/apm: No such file or directory
+conky: can't open /sys/class/power_supply/BAT0/uevent: No such file or directory
+conky: can't open /proc/acpi/battery/BAT0/state: No such file or directory
+conky: can't open /proc/apm: No such file or directory
+conky: conky: conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+
+received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
